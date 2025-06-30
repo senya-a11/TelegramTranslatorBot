@@ -12,7 +12,7 @@ import logging
 
 
 # Initialize bot and dispatcher
-bot = Bot(token="7939086936:AAFaQ_5Twjq0TkqRf0vWVdZVjCyODEmbBWw")
+bot = Bot(token="Token")
 dp = Dispatcher()
 translator = Translator()
 
